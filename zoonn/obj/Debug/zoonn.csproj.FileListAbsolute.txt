@@ -1,0 +1,20 @@
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\zoonn\zoonn\bin\Debug\zoonn.exe.config
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\zoonn\zoonn\bin\Debug\zoonn.exe
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\zoonn\zoonn\bin\Debug\zoonn.pdb
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\zoonn\zoonn\bin\Debug\OpenPop.dll
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\zoonn\zoonn\obj\Debug\zoonn.Form1.resources
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\zoonn\zoonn\obj\Debug\zoonn.Properties.Resources.resources
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\zoonn\zoonn\obj\Debug\zoonn.csproj.GenerateResource.Cache
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\zoonn\zoonn\obj\Debug\zoonn.exe
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\zoonn\zoonn\obj\Debug\zoonn.pdb
+C:\Users\Sami\Documents\Visual Studio 2015\Projects\zoonn\zoonn\obj\Debug\zoonn.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\zoonn\zoonn\bin\Debug\zoonn.exe.config
+C:\Users\root\Desktop\zoonn\zoonn\bin\Debug\zoonn.exe
+C:\Users\root\Desktop\zoonn\zoonn\bin\Debug\zoonn.pdb
+C:\Users\root\Desktop\zoonn\zoonn\obj\Debug\zoonn.csprojResolveAssemblyReference.cache
+C:\Users\root\Desktop\zoonn\zoonn\obj\Debug\zoonn.Form1.resources
+C:\Users\root\Desktop\zoonn\zoonn\obj\Debug\zoonn.Properties.Resources.resources
+C:\Users\root\Desktop\zoonn\zoonn\obj\Debug\zoonn.csproj.GenerateResource.Cache
+C:\Users\root\Desktop\zoonn\zoonn\obj\Debug\zoonn.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\zoonn\zoonn\obj\Debug\zoonn.exe
+C:\Users\root\Desktop\zoonn\zoonn\obj\Debug\zoonn.pdb
